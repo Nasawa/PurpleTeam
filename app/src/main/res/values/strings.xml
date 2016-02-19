@@ -1,0 +1,9 @@
+<resources>
+	<string name="app_name">PurpleTeam</string>
+	<string name="action_settings">Settings</string>
+	<string name="action_home">Home</string>
+	<string name="action_calendar">Calendar</string>
+	<string name="action_alarm">Alarm</string>
+	<string name="action_gps">GPS</string>
+	<string name="map">Pretend there\'s a map here</string>
+</resources>
